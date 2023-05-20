@@ -2,6 +2,11 @@
   display: flex;
 }
 
+.side a, .main a{
+  text-decoration: none;
+}
+
+/* side==================== */
 .side{
   background-color: #253141;
   width: 300px;
