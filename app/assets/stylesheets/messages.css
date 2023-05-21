@@ -41,7 +41,7 @@
 }
 .side_content a{
   display: block;
-  padding: 20px 20px 40px;
+  padding: 20px 0 40px;
   color: white;
 }
 
@@ -104,14 +104,14 @@
 }
 
 /* main footer=============== */
-.main_footer{
+.form{
   background-color: #dddddd;
   height: 90px;
   padding: 20px 40px;
   display: flex;
 }
 
-.form{
+.form_input{
   background-color: white;
   display: flex;
   width: 100%;
